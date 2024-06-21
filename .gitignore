@@ -1,0 +1,11 @@
+.vs
+.idea
+
+.DS_Store
+
+# python
+__pycache__/
+
+.vscode
+/Python/host-tjalling/.vscode
+*.pyc
